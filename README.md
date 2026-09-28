@@ -173,14 +173,6 @@ pip install peft==0.11.1   # only for the LoRA notebook
 
 ---
 
-## 🔗 Other DLP NPPE Repos
-
-| 📝 Exam | 🧩 Modality | 📂 Repo |
-|---|---|---|
-| **NPPE-1** | 📜 Text | *(this repo)* |
-| **NPPE-2** | 🎙️ Speech | _coming soon_ |
-| **NPPE-3** | 🖼️ Images | _coming soon_ |
-
 ---
 
 <div align="center">
