@@ -186,7 +186,7 @@ pip install peft==0.11.1   # only for the LoRA notebook
 <div align="center">
 
 ### 👨‍💻 Author
-**Saini** · IIT Madras BS Degree Program 🎓
+**Saini** · (CyberSoul) 🎓
 
 ⭐ If this helped you, drop a star on the repo! ⭐
 
